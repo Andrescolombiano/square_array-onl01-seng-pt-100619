@@ -6,4 +6,4 @@ binding.pry
   square_array<< num*num
 end
 square_array
-end
+end []
